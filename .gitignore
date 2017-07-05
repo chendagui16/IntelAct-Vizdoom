@@ -1,0 +1,4 @@
+*.pyc
+*.ipynb
+_vizdoom.ini
+.ipynb_checkpoints

@@ -1,0 +1,5 @@
+{
+    "game_config": "config/config.cfg", 
+    "frame_skip": 2, 
+    "game_args": "+name IntelAct +colorset 7"
+}
